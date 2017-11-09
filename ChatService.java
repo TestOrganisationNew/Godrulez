@@ -27,7 +27,10 @@ public class ChatService {
   }
   
   public static void main(String[] args)
-	{	String s1 = "Computer Science";
+	{	
+	  
+	  String ss = "Computer Science 2";
+	  String s1 = "Computer Science";
 		int x = 307;
 		String s2 = s1 + " " + x;
 		String s3 = s2.substring(10,17);
