@@ -16,7 +16,7 @@ public interface ViewTransformer {
      * @param view The content view to transform.
      */
     void transformView(float translation, float maxTranslation, float peekedTranslation, BottomSheetLayout parent, View view);
-
+// this is done by srivathsan
     /**
      * Called on when the translation of the sheet view changes allowing you to customize the amount of dimming which
      * is applied to the content view.
