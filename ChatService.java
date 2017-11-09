@@ -42,8 +42,9 @@ public class ChatService {
 		System.out.println("s3: " + s3);
 		System.out.println("s4: " + s4);
 		System.out.println("s5: " + s5);
+	  
+	  System.out.println("Done" );
 		
-// removed some edits by shan
 	}
 
 }
