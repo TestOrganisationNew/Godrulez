@@ -40,16 +40,7 @@ public class ChatService {
 		System.out.println("s4: " + s4);
 		System.out.println("s5: " + s5);
 		
-		//showing effect of precedence
-		
-		x = 3;
-		int y = 5;
-		String s6 = x + y + "total";
-		String s7 = "total " + x + y;
-		String s8 = " " + x + y + "total";
-		System.out.println("s6: " + s6);
-		System.out.println("s7: " + s7);
-		System.out.println("s8: " + s8);
+// removed some edits by shan
 	}
 
 }
