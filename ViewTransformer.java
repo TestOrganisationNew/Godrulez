@@ -31,4 +31,6 @@ public interface ViewTransformer {
      */
     float getDimAlpha(float translation, float maxTranslation, float peekedTranslation, BottomSheetLayout parent, View view);
 
+    //shan --------------------------- just added for checking 
+    
 }
